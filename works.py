@@ -16,7 +16,7 @@ def generate_video(script):
     headers = {
         "accept": "application/json",
         "content-type": "application/json",
-        "Authorization" : "Basic YW1GamNYVmxjMnhsWjNKaGJtZGxRR2R0WVdsc0xtTnZiUTpuNjdqWmdMcXR0VUhJbjJ6dTVlcTI"
+        "Authorization" : "Basic <YOUR D-ID API KEY HERE>"
         }
 
     payload = {
